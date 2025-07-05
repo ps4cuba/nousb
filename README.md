@@ -1,1 +1,1 @@
-Pagina : [https://ps4cuba.github.io/nousb/main/index.html](https://ps4cuba.github.io/nousb/)
+Pagina : https://ps4cuba.github.io/nousb/main/
